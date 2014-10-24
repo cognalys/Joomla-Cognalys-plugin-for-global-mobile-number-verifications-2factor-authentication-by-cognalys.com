@@ -1,0 +1,15 @@
+.cognalys-message {
+	min-width: 16px;
+	height: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 5px;
+	display: none;
+	color: #9d261d;
+	font-weight: bold;
+}
+
+.cognalys-loader {
+	background: url('../img/ajax-loader.gif') no-repeat left center;
+	padding-left: 20px;
+}
